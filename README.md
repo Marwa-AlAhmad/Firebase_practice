@@ -1,17 +1,20 @@
-# course_firebase1
+# Firebase_practice
+A simple To-Do List app applying Flutter concepts with Firebase.
 
-A new Flutter project.
 
-## Getting Started
+**About the App**
+This project is a practice application created while learning Flutter and Firebase.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**The app currently includes:**
+- User Sign Up
+- User Login
+- Firebase Authentication
+- More features will be added as the project develops.
+- 
+**Technologies**
+- Flutter
+- Dart
+- Firebase
+ 
+**About This Project**
+This project is part of my learning journey with Flutter and Firebase, where I am applying the concepts learned through the course.
